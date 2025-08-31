@@ -53,7 +53,7 @@ When I’m not coding, I’m probably:
 <p align="center">
   <a href="mailto:eraldarryll@gmail.oom"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="www.linkedin.com/in/darryll-eral-a64140282"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/YOUR-USERNAME](https://github.com/Zephyrdoestech)"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="[https://github.com/Zephyrdoestech](https://github.com/Zephyrdoestech)"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
