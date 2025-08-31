@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://www.facebook.com/share/178WhUXkWy/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
   <a href="https://www.instagram.com/eraldarryll?igsh=MXVxaTFxenQ5NXN4eQ=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-  <a href="www.linkedin.com/in/darryll-eral-a64140282"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/darryll-eral-a64140282"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div></a>
 
 # 👋 Hey there, I'm Darryll Eral  
@@ -52,7 +52,7 @@ When I’m not coding, I’m probably:
 ## 📫 Let’s Connect!  
 <p align="center">
   <a href="mailto:eraldarryll@gmail.oom"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/darryll-eral-a64140282"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/darryll-eral-a64140282"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Zephyrdoestech"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
