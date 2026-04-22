@@ -23,3 +23,7 @@
   "community": ["AWS Cloud Club - WildQuacc", "GDG on Campus CIT-U", "SSG Info-Man"],
   "current_status": "Building cool projects and solving problems."
 }
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</div>
