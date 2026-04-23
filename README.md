@@ -20,7 +20,7 @@
   "name": "Darryll B. Eral",
   "education": "BSIT (2nd Year) @ Cebu Institute of Technology - University",
   "focus": ["AI", "Web Development", "Cybersecurity", "Cloud Architecture"],
-  "community": ["AWS Cloud Club - WildQuacc", "GDG on Campus CIT-U", "SSG Info-Man"],
+  "community": ["AWS Cloud Club - WildQuacc", "GDG on Campus CIT-U", "SSG IT-Rep"],
   "current_status": "Building cool projects and solving problems."
 }
 ```
