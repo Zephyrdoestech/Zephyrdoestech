@@ -26,11 +26,6 @@
 ```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Zephyrdoestech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyrdoestech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrdoestech&theme=tokyonight&hide_border=true&bg_color=0D1117&color=3ECF8E&line=7F52FF&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
 
