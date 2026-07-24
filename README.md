@@ -79,7 +79,7 @@ status: Building useful things, one commit at a time.
 ### `> system_metrics`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zephyrdoestech&show_icons=true&hide_border=true&bg_color=071A12&title_color=39FF88&icon_color=00C878&text_color=C8FFE2&ring_color=39FF88" alt="Darryll's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zephyrdoestech&theme=github_dark" alt="Darryll's GitHub statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Zephyrdoestech&hide_border=true&background=071A12&ring=39FF88&fire=00C878&currStreakLabel=39FF88&sideLabels=C8FFE2&currStreakNum=E9FFF5&sideNums=E9FFF5&dates=79B99A" alt="Darryll's contribution streak" />
 </div>
 
