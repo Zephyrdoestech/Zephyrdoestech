@@ -89,7 +89,11 @@ status: Building useful things, one commit at a time.
 ### `> contribution_stream`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/puzzle-bobble-contribution-graph-dark.svg" width="100%" alt="Puzzle Bobble-style contribution graph" />
+  </picture>
 </div>
 
 ---
