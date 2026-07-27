@@ -61,19 +61,10 @@ status: Building useful things, one commit at a time.
   </tr>
 </table>
 
-### `> tech_signal`
+### `> tech_matrix`
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-0B2B1F?style=for-the-badge&logo=openjdk&logoColor=39FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B2B1F?style=for-the-badge&logo=javascript&logoColor=39FF88)
-![HTML5](https://img.shields.io/badge/HTML5-0B2B1F?style=for-the-badge&logo=html5&logoColor=39FF88)
-![CSS3](https://img.shields.io/badge/CSS3-0B2B1F?style=for-the-badge&logo=css3&logoColor=39FF88)
-![AWS](https://img.shields.io/badge/AWS-0B2B1F?style=for-the-badge&logo=amazonwebservices&logoColor=39FF88)
-![Git](https://img.shields.io/badge/Git-0B2B1F?style=for-the-badge&logo=git&logoColor=39FF88)
-![GitHub](https://img.shields.io/badge/GitHub-0B2B1F?style=for-the-badge&logo=github&logoColor=39FF88)
-![VS Code](https://img.shields.io/badge/VS_Code-0B2B1F?style=for-the-badge&logo=visualstudiocode&logoColor=39FF88)
-
+  <img src="./.github/assets/skills-matrix.svg" width="100%" alt="Darryll's technology skills and focus areas" />
 </div>
 
 ### `> system_metrics`
@@ -94,6 +85,17 @@ status: Building useful things, one commit at a time.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/puzzle-bobble-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/Zephyrdoestech/Zephyrdoestech/output/puzzle-bobble-contribution-graph-dark.svg" width="100%" alt="Puzzle Bobble-style contribution graph" />
   </picture>
+</div>
+
+### `> open_channel`
+
+<div align="center">
+  <img src="./.github/assets/connect-header.svg" width="100%" alt="Connect with Darryll B. Eral" />
+  <a href="mailto:eraldarryll@gmail.com"><img src="./.github/assets/connect-email.svg" width="48%" alt="Email Darryll" /></a>
+  <a href="https://www.linkedin.com/in/darryll-eral-a64140282"><img src="./.github/assets/connect-linkedin.svg" width="48%" alt="Connect with Darryll on LinkedIn" /></a>
+  <br />
+  <a href="https://www.instagram.com/eraldarryll?igsh=MXVxaTFxenQ5NXN4eQ=="><img src="./.github/assets/connect-instagram.svg" width="48%" alt="Follow Darryll on Instagram" /></a>
+  <a href="https://www.facebook.com/share/178WhUXkWy/"><img src="./.github/assets/connect-facebook.svg" width="48%" alt="Connect with Darryll on Facebook" /></a>
 </div>
 
 ---
