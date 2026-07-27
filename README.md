@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A12,45:00A86B,100:39FF88&text=DARRYLL%20B.%20ERAL&fontColor=E9FFF5&fontSize=42&fontAlignY=36&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SHIP&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Darryll B. Eral — Build, Learn, Ship" />
+<img src="./.github/assets/hero.svg" width="100%" alt="Darryll B. Eral — BSIT student and developer" />
 
 <a href="https://github.com/Zephyrdoestech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&repeat=true&width=720&lines=%3E+BSIT+student+%40+CIT-U;%3E+Mobile+%26+web+developer;%3E+Exploring+AI%2C+cloud+%26+cybersecurity;%3E+Turning+ideas+into+working+systems_" alt="Animated introduction" />
