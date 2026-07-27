@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="155" viewBox="0 0 900 155" role="img" aria-label="System online — open to learning and collaboration">
+  <defs><linearGradient id="bg"><stop stop-color="#03120c"/><stop offset=".5" stop-color="#0a2419"/><stop offset="1" stop-color="#03120c"/></linearGradient><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.t{font:800 14px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#e9fff5}.s{font:600 10px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#79b99a}.pulse{animation:p 2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}</style></defs>
+  <rect width="900" height="155" rx="18" fill="url(#bg)"/><rect x="3" y="3" width="894" height="149" rx="15" fill="none" stroke="#00c878" stroke-width="2" opacity=".7"/>
+  <path d="M24 42V24h30M846 24h30v18M24 113v18h30M846 131h30v-18" fill="none" stroke="#39ff88" stroke-width="2"/>
+  <path d="M130 53h190l18 14h224l18-14h190" fill="none" stroke="#00a86b" stroke-opacity=".35"/>
+  <circle cx="338" cy="67" r="4" fill="#39ff88" filter="url(#g)" class="pulse"/><circle cx="562" cy="67" r="4" fill="#39ff88" filter="url(#g)" class="pulse" style="animation-delay:.8s"/>
+  <circle cx="303" cy="91" r="5" fill="#39ff88" class="pulse"/><text x="455" y="96" text-anchor="middle" class="t">SYSTEM ONLINE</text>
+  <text x="450" y="121" text-anchor="middle" class="s">OPEN TO LEARNING // COLLABORATION // AMBITIOUS IDEAS</text>
+  <text x="450" y="144" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="2" fill="#4b896a">DESIGNED WITH CURIOSITY, CAFFEINE &amp; NEON GREEN</text>
+</svg>

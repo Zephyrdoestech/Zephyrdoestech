@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="105" viewBox="0 0 900 105" role="img" aria-label="Contribution stream">
+  <defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="l"><stop stop-color="#071a12"/><stop offset=".5" stop-color="#39ff88"/><stop offset="1" stop-color="#071a12"/></linearGradient><style>.t{font:800 24px 'Segoe UI',Arial,sans-serif;letter-spacing:7px;fill:#e9fff5}.s{font:600 9px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#79b99a}</style></defs>
+  <text x="450" y="40" text-anchor="middle" class="t" filter="url(#g)">CONTRIBUTION STREAM</text><text x="450" y="66" text-anchor="middle" class="s">// PUZZLE BOBBLE PROTOCOL — ACTIVE</text><rect x="65" y="90" width="770" height="1.5" fill="url(#l)"/><circle cx="450" cy="90.5" r="4" fill="#39ff88" filter="url(#g)"/>
+</svg>
