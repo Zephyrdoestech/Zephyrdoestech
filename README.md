@@ -19,7 +19,7 @@
 <div align="center">
   <img src="./.github/assets/metrics-header.svg" width="100%" alt="System metrics" />
   <img width="72%" src="https://streak-stats.vercel.app?user=Zephyrdoestech&hide_border=false&border=39FF88&border_radius=12&stroke=103D2A&background=071A12&ring=39FF88&fire=00C878&currStreakLabel=39FF88&sideLabels=C8FFE2&currStreakNum=E9FFF5&sideNums=E9FFF5&dates=79B99A&v=1" alt="Darryll's contribution streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyrdoestech&hide_border=true&bg_color=071A12&color=C8FFE2&line=39FF88&point=E9FFF5&area=true&area_color=00A86B" width="100%" alt="Darryll's GitHub activity graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Zephyrdoestech&hide_border=true&bg_color=071A12&color=C8FFE2&line=39FF88&point=E9FFF5&area=true&area_color=00A86B&v=1" width="100%" alt="Darryll's GitHub activity graph" />
 </div>
 
 <div align="center">
