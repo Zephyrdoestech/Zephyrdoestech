@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&repeat=true&width=720&lines=%3E+BSIT+student+%40+CIT-U;%3E+Mobile+%26+web+developer;%3E+Exploring+AI%2C+cloud+%26+cybersecurity;%3E+Turning+ideas+into+working+systems_" alt="Animated introduction" />
 </a>
 
-<br />
-<img src="./.github/assets/ascii-portrait.svg" width="100%" alt="Highly detailed ASCII portrait of Darryll B. Eral" />
-
 </div>
 
 <div align="center">
@@ -37,6 +34,9 @@
   <br />
   <a href="https://www.instagram.com/eraldarryll?igsh=MXVxaTFxenQ5NXN4eQ=="><img src="./.github/assets/connect-instagram.svg" width="48%" alt="Follow Darryll on Instagram" /></a>
   <a href="https://www.facebook.com/share/178WhUXkWy/"><img src="./.github/assets/connect-facebook.svg" width="48%" alt="Connect with Darryll on Facebook" /></a>
+  <br />
+  <img src="./.github/assets/support-header.svg" width="100%" alt="Buy me a coffee please — GCash donation channel" />
+  <a href="./.github/assets/gcash-donation-qr.jpg"><img src="./.github/assets/gcash-donation-qr.jpg" width="360" alt="GCash QR code for donations" /></a>
   <br />
   <img src="./.github/assets/footer.svg" width="100%" alt="System online — open to learning and collaboration" />
 </div>

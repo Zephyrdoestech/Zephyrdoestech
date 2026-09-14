@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Buy me a coffee please">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03120c"/><stop offset="1" stop-color="#0a2419"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#071a12"/><stop offset=".5" stop-color="#39ff88"/><stop offset="1" stop-color="#071a12"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#39ff88" stroke-opacity=".03"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font:800 27px 'Segoe UI',Arial,sans-serif;letter-spacing:4px;fill:#e9fff5}
+      .sub{font:600 10px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#79b99a}
+      .pulse{animation:p 2.2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="900" height="150" rx="18" fill="url(#bg)"/><rect width="900" height="150" rx="18" fill="url(#grid)"/>
+  <rect x="3" y="3" width="894" height="144" rx="15" fill="none" stroke="#00c878" stroke-width="2" opacity=".72"/>
+  <path d="M24 43V24h31M845 24h31v19M24 107v19h31M845 126h31v-19" fill="none" stroke="#39ff88" stroke-width="2"/>
+  <text x="450" y="57" text-anchor="middle" class="title" filter="url(#glow)">Buy me a coffee please 🥹</text>
+  <text x="450" y="87" text-anchor="middle" class="sub">GCASH DONATION CHANNEL // SCAN TO SUPPORT</text>
+  <rect x="80" y="112" width="740" height="1.5" fill="url(#line)"/>
+  <circle cx="450" cy="112.5" r="4" fill="#39ff88" filter="url(#glow)" class="pulse"/>
+</svg>
