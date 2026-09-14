@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&repeat=true&width=720&lines=%3E+BSIT+student+%40+CIT-U;%3E+Mobile+%26+web+developer;%3E+Exploring+AI%2C+cloud+%26+cybersecurity;%3E+Turning+ideas+into+working+systems_" alt="Animated introduction" />
 </a>
 
+<br />
+<img src="./.github/assets/ascii-portrait.svg" width="100%" alt="Highly detailed ASCII portrait of Darryll B. Eral" />
+
 </div>
 
 <div align="center">

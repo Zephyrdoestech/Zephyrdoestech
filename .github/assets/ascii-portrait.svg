@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="740" viewBox="0 0 900 740" role="img" aria-label="ASCII portrait of Darryll B. Eral">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020c08"/><stop offset="0.52" stop-color="#061810"/><stop offset="1" stop-color="#0a2419"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00a86b"/><stop offset="0.5" stop-color="#39ff88"/><stop offset="1" stop-color="#00a86b"/>
+    </linearGradient>
+    <linearGradient id="glyph" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1b6d49"/><stop offset="0.3" stop-color="#9af7c4"/><stop offset="0.62" stop-color="#39ff88"/><stop offset="1" stop-color="#12784c"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#39ff88" stop-opacity="0"/><stop offset="0.5" stop-color="#39ff88" stop-opacity="0.09"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#39ff88" stroke-opacity="0.025"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="textGlow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="0.35" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font:800 25px 'Segoe UI',Arial,sans-serif;letter-spacing:7px;fill:#e9fff5}
+      .sub{font:600 9px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#79b99a}
+      .ascii{font-family:Consolas,'Courier New',monospace;font-size:7.25px;font-weight:700;white-space:pre;fill:url(#glyph);letter-spacing:0}
+      .scanner{animation:scanline 7s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes scanline{from{transform:translateY(-100px)}to{transform:translateY(840px)}}
+      @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="900" height="740" rx="20" fill="url(#bg)"/>
+  <rect width="900" height="740" rx="20" fill="url(#grid)"/>
+  <rect x="3" y="3" width="894" height="734" rx="17" fill="none" stroke="url(#frame)" stroke-width="2" opacity="0.78"/>
+  <rect x="11" y="11" width="878" height="718" rx="13" fill="none" stroke="#39ff88" stroke-opacity="0.12"/>
+  <path d="M28 66V28h42M830 28h42v38M28 674v38h42M830 712h42v-38" fill="none" stroke="#39ff88" stroke-width="2" filter="url(#glow)"/>
+  <text x="450" y="43" text-anchor="middle" class="title" filter="url(#glow)">ASCII PORTRAIT</text>
+  <text x="450" y="68" text-anchor="middle" class="sub">// VISUAL ID BUFFER — 156 × 87 GLYPH FIELD</text>
+  <path d="M80 86h275l15 12h160l15-12h275" fill="none" stroke="#00a86b" stroke-opacity="0.38"/>
+  <circle cx="370" cy="98" r="3.5" fill="#39ff88" class="pulse" filter="url(#glow)"/><circle cx="530" cy="98" r="3.5" fill="#39ff88" class="pulse" style="animation-delay:.8s" filter="url(#glow)"/>
+  <text class="ascii" filter="url(#textGlow)">
+    <tspan x="109.6" y="112.0"> </tspan>
+    <tspan x="109.6" y="118.5"> </tspan>
+    <tspan x="109.6" y="125.1"> </tspan>
+    <tspan x="109.6" y="131.7">                                       :A;       :.:iM@@@@@@@@@9hXr:   .::,,</tspan>
+    <tspan x="109.6" y="138.2">                                       .; ,  .i;:B@@@@@@@@@@@@@@@@@@@@ShMh5Mh55Asr;</tspan>
+    <tspan x="109.6" y="144.8">                                        ;,     r@@@@@@@@@@@@@@@@@@@@@@@@@@#GhMHGGGHhXr:</tspan>
+    <tspan x="109.6" y="151.3">                                     .   ,; ;,3@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G525hMGSSM5Xr.</tspan>
+    <tspan x="109.6" y="157.8">                                           isG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@SHM33MHGGHhAi.</tspan>
+    <tspan x="109.6" y="164.4">                                     ,   , ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@#3hMHHHGSH2i,</tspan>
+    <tspan x="109.6" y="170.9">                               ir5#G9@@@@@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#A5hMMhHGSGh2.</tspan>
+    <tspan x="109.6" y="177.5">                            .rh@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H25hMMMMHHGh;.</tspan>
+    <tspan x="109.6" y="184.1">                          ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G3hMMhMHHGGhs,</tspan>
+    <tspan x="109.6" y="190.6">                          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G3MMMMMHGSSHX,</tspan>
+    <tspan x="109.6" y="197.1">                         @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@953MhMMMMHGGHs</tspan>
+    <tspan x="109.6" y="203.7">                        s@@@@@@@@@@@@@@@@@@@@@@@@@@@#S#B@@@@@@@@@B@@@@@@@@@@@@@@@@@@@@@@@@@@@@M23hMMMMMHSS2</tspan>
+    <tspan x="109.6" y="210.2">                       ;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9MH9@@9B@S@9B###99@@@@@@@@@@@@@@@@@@@@@@@@9HhhMMMMMMGGhs</tspan>
+    <tspan x="109.6" y="216.8">                       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@999#@@9GMMGHGHhhHA#@@@@@@@@@@@@@@@@@9@@@@@@@@H3MMMMMMHMSG2;</tspan>
+    <tspan x="109.6" y="223.3">                      M@@@@@@@@@@@@@@@@@@@@@@@@@@@@S59@S9@@93hH3335325@@@@@@@@@@@@@@@@@@@@@@@@@@@#3MMMMMMMMMHSG</tspan>
+    <tspan x="109.6" y="229.9">                     r@@@@@@@@@@@@@@@@@@@@@@@@@@@@G@S@9S#S#SHhXA2X22X#@@@@@@@@@@@@@@@@@@@@@@@@@@@@HhMMMMMMMMMHS2</tspan>
+    <tspan x="109.6" y="236.4">                 ,  ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B5G@@S2Xs5M3h5AsXAH@@@B@@@@@@@@@@@@@@@@@@@@@@@@@S3MMMMMMMMMHSH.</tspan>
+    <tspan x="109.6" y="243.0">                    9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9s;iiiXA2AAXssS@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B5hMMMMMMMMMHHr                         , ,</tspan>
+    <tspan x="109.6" y="249.5">                r  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BX    ::i:2G.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S3MMMMMMMMMMHH                            .</tspan>
+    <tspan x="109.6" y="256.1">                X@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9B@@@@9HG3; X@@@@@@@@@@@@@@9@@@@@@@@@@@@@@@@@H3MMMMMMMMMMGG</tspan>
+    <tspan x="109.6" y="262.6">               55@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@r r9@@9HH3r:iH@@@@@@#HhHGMG9B@@@@@@@@@@@@@@@hhMMMMMMMMMMS3</tspan>
+    <tspan x="109.6" y="269.2">               X9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@h   X@h2::Ai.  .: H9MH5hGGMGMhMS99#S99@@@@@@hMHHMMMMMMMMHr</tspan>
+    <tspan x="109.6" y="275.8">                 @@@@@@@@@@@@@@@@@@@@@@@9@@@@@@@@@@SXH. h@3Xis:2;.s2::,,A3S9GSHGHGGSB@@@@@@B#@@@@5HHHHMMMMMMHG2ii</tspan>
+    <tspan x="109.6" y="282.3">                 i@@@@@@@@@@@@@@@@@@@@@@@9@@@@@@@@@ShAS@@G rX,Xr:s2i;i;;,  :rAXXAS@@@@@@@@@@9S@@#sM;2GMMMMMMMHHS9A</tspan>
+    <tspan x="109.6" y="288.9">                  @@@@@@@@@@@@@@@@@@@@@@@@B9@@@@@@@@@@@@@X,ihisssX,:;:,,,:.   sS@@@G2AAA25G99#G@@B, :HHMMMMMMMHHS#</tspan>
+    <tspan x="109.6" y="295.4">                   @@@@@@@@@@@@@@@@@@@@@9@@@@@@@@@@@@@#A,:,XX,,:. ,,;:,::::r3@@@BhXrXA3hMhMHGSSG@@H  3GMMHMMMMMMH#r</tspan>
+    <tspan x="109.6" y="301.9">                   ,@@@@@@@@@@@@@@@@@@@@@@@@@@@G@@##9GX    ,    .  ,:;:,;iXM##GhXsXA55hHB@GMMHHGG@@G 3GMMMMMMMMMM#s</tspan>
+    <tspan x="109.6" y="308.5">                    A@@@@@@@@@@@@@@@@@@@@@@9HhhMHr       :    ,,,:,::;iirX5MH35r:iAhM#@@@@@9M3hGG9@@i3GMMhMMMMMMM#s</tspan>
+    <tspan x="109.6" y="315.0">                     ,@@@@@@@@@@@@@@@@@S3h3552AXr;iri;AMh3hh523Assri;;issAhh32si2M3s X@@@@@SM55hGM@@ hHMMMMMMMMMMS5</tspan>
+    <tspan x="109.6" y="321.6">                       M@@@@@@@@@@@@@@@H3HSMM55S#9@@@@@@@@@@B#M3552Xsi;isAMG3rXS9H:   H9#BM2555hHG#@ XMHMMMMMMMMMGS,</tspan>
+    <tspan x="109.6" y="328.1">                         9@@@@@@@@@@@@BMMHSMhS@@@@@BHA:  :iX5h3h3352X;  iXM#H r2A53HS#h3h5AAA253HSG@H:AHMMMMMMMMMH#3</tspan>
+    <tspan x="109.6" y="334.7">                          5@@@@@@@@@@@9hHHHMS@B9hsr;, .,:rX23MM35h32Xr; :s5#9hAss23h32AXsirssX22hSS@@iAGHMMMMMMMMHSG</tspan>
+    <tspan x="109.6" y="341.2">                           #@@@@@@@@@@MhhMMhHH5XsXAA252s2h9@@@9S:;H3A2Xi;rXM9S3552Xssri;;iirssXA2hH#@2AHHMMMMMMMHMGS</tspan>
+    <tspan x="109.6" y="347.8">                            #@@@@@@@@@MhhM33h32223hHHGS9M;X@@@M5rs52252XriiX5SH555AssssrirrrrrsX23H#@2XhHMMMMMHMMMG@2</tspan>
+    <tspan x="109.6" y="354.4">                             h9@@@@@@@#MHh3522A53GB@@@@M;  iA23ri2rrXXXAsi,,i5GGM3AsrrrrssrrrrsX23S#@AAHMHMMMMMMMHGM:</tspan>
+    <tspan x="109.6" y="360.9">                            GhsisXh@@@@MMM35AXXA3#9@BH32223352i;ssrrrrXXsi:,:i5GSS3riiiirrissrrs23M##hMHMMMMMMMMMGG</tspan>
+    <tspan x="109.6" y="367.4">                            r5iXs: ,@@@#MMh5AXssX552XXsXAAAsi.:;;ssXXsXAXsiiiis2M#9Hs,ii;irrrsXA25M9GhMMMMMMMMMMMGG</tspan>
+    <tspan x="109.6" y="374.0">                             :r;2sXir@@@MMh2AXXXsrsrsrrr;:...:::;rsXX2552XXAi;;is233#2.:;;iiirsX23M9SMMMMMMMHMMMMG#</tspan>
+    <tspan x="109.6" y="380.6">                              .:Xs,rA2@@HMM3552AXssssi,,  .,:::i;;rshH55Xii:   .:AAi3#;:;;rrrrsX23M9#MMMMMMMHMMMMH9:</tspan>
+    <tspan x="109.6" y="387.1">                                ;A ;  s#9MHM3352AXrrrii,.,,::::,,::2#A;i;;;:  :;2G5XG3rrrirrXAXA23MSSHMMMMHMMMMMMH9;</tspan>
+    <tspan x="109.6" y="393.6">                                 ri.:i,sB#MHHh35AXsrrii;;:::,:,,::.iH2;sX535525MMX5#hXrrrsXA252523MSSMMMMMHMMHHHMG9;</tspan>
+    <tspan x="109.6" y="400.2">                                  iArh32M9GhHMh32AXriiiii::::,:,,,, sHHH2sir2222ir55AAXXA2223Mh33hHSGMMMHHMMHMHMMG9</tspan>
+    <tspan x="109.6" y="406.8">                                   :2h; iS@#MMhh5AAsrii;i;:;::,:,.:;;isXAXXi,.:.:isXAAA253523MHh3MGSHMMMMHHMMHMHMSG</tspan>
+    <tspan x="109.6" y="413.3">                                     2H;;3H@BHMhh52AXsriii;;;::;:,ir;i;irssrXA355AAA22533hH35hH33HS#MHMMMMMHMMHHH93</tspan>
+    <tspan x="109.6" y="419.8">                                      r33r;M@@SMMh352Xsrrri;;;ii;irrrAXXrrirXA553MS##9B@@@@SHMMMMG#GMHHHMMMHMHHMG9:</tspan>
+    <tspan x="109.6" y="426.4">                                        :,,  s@@MhM52AssssrrrrsrsssXXAi;r5GGGSSS#9SSGhAA5hMMMhMHG#9MMMHHHMMHHHMH#3</tspan>
+    <tspan x="109.6" y="432.9">                                               M@Gh352AAXssXsXAAAXAsrr5#@9GMMHh3A;,::sr5GGHMMhhHG9ShH####S#HHHHHS,</tspan>
+    <tspan x="109.6" y="439.5">                                                :@S33352AAAXsssA2AX2M@@@G3Aris: ;sA22H#9GhMMHMhHHS@@X.2hHHhSHHHHSi</tspan>
+    <tspan x="109.6" y="446.1">                                                  @#hh3522522AXsXA23h2XA53MHHHHSB@@@#GM333hMHHMHS@@@9      5#HHHGGMh3555</tspan>
+    <tspan x="109.6" y="452.6">                                                  ,@9GM352A252A25hM32AAAX2555hMM2ssrsAA2333MMMHS@@G@@@:    ;#GMHMGS##99@X</tspan>
+    <tspan x="109.6" y="459.1">                                                   X@BB#HHM33hHM33M#9h5555AXsi;:,:;;rsXXA533hH@@BMB@3,   ,: 5#HHHHMHMHH#S</tspan>
+    <tspan x="109.6" y="465.7">                                                    H@9B@@#SSG5sri;sG@GMh5552siirirXXXAXA3hMS@@#SGr      .,,,SGHHHHHHHHH95</tspan>
+    <tspan x="109.6" y="472.2">                                                     BGH#@@@@hisX2riAS@M2A22XXssXXA253hMHG9@@@32;        ,.,.5#HHHHHHHHHG9,</tspan>
+    <tspan x="109.6" y="478.8">                                                     r@MhH#B@hirX5sr3Sh@MAAAA525hMSSSH3hS@9G2;            .,,:hMhHHHMHHHH93</tspan>
+    <tspan x="109.6" y="485.3">                                                      S9525HBhisiXXrh@;h@#M5h#B@BMi,   .@@ii               ,, 3B35hMHHHHHG#;</tspan>
+    <tspan x="109.6" y="491.9">                                                       #SGSG9MssrsssA@2 X@@@@@9A.    ,:#@2                  ,3@@@Bh33MMMHHSShA,</tspan>
+    <tspan x="109.6" y="498.4">                                                       X@BGG9G2rrXXXiM@. B@#B5  .:sHA2@@:                   2@@@@@@@G35hMHHG#9SA,</tspan>
+    <tspan x="109.6" y="505.0">                                                  .3#SS9SGGSMX, .:irr;B@ ,@#A.,::s5M@@h                     @@@@@@@@@@BH33hMHHS9#hr</tspan>
+    <tspan x="109.6" y="511.6">                                                3GBSXi:,irsri:  ..,:r:s@GG@M:,:sX2#@@,                    M@@@@@@@@@@@@@@#h5hMHHG99G3i</tspan>
+    <tspan x="109.6" y="518.1">                                            ;5@@@#Gs     .::;:,,,. ,;ii9@@MX.;rsirB@                     @@@@@@@@@@@@@@@@@@@G353HHGS9#H2;</tspan>
+    <tspan x="109.6" y="524.6">                                       2#@@@@@@@AhSX  ,:,,:;;::::,.,;;;A@@@s:iss;s@h                   5@@@@@@@@@@@@@@@@@@@@@@BM33MHHG#9SHX:</tspan>
+    <tspan x="109.6" y="531.2">                                  XS@@@@@@@@@@S  ;Xs;:,::::;;;:::::::ii;3@@3A232iA@                  3@@@@@@@@@@@@@@@@@@@@@@@@@@@9M53hHHGS#ShX.</tspan>
+    <tspan x="109.6" y="537.8">                            ,5B@@@@@@@@@M32AS@  :;irs;,:::::::::::,::;ir;#@M2X252M@s                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#h33MHHS##Shs,</tspan>
+    <tspan x="109.6" y="544.3">                       AS@@@@@@@@@@@@@@@Ahs2HG:,rrrrrr;;;:::::::::::;;irrA#3siiiA5@@ H@:          5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G33hMHHS99S3s,</tspan>
+    <tspan x="109.6" y="550.8">                    r@@@@@@@@@@@@@@@@@@@SA22Xs;;rrrrrsr;;::::::,,:::;;irrX35Xsi:;iB@@A  :X.      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H33hHHGS##G3r.</tspan>
+    <tspan x="109.6" y="557.4">                   @@@@@@@@@@@@@@@@@@@@@@2;,;issssrrsrii;:::,:::,,::;irrssXAXsssXA@@    ;     9@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BM33MHHGS##G3s</tspan>
+    <tspan x="109.6" y="564.0">               .; 9@@@@@@@@@@@@@@@@@@@@@@@,;rsXXssXrriii;:::::::::::;irrsssXsAs23@@;        i@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#r..:5@@@@@S5hHHHHG#9#GA</tspan>
+    <tspan x="109.6" y="570.5">            ,  :  @@@@@@@@@@@@@@@@@@@@@@@@3,isXXsrsriiii;::::,::::::;iirssssXXA5#@G  ,     G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A        .G@@@@hhMMHHHGHSS</tspan>
+    <tspan x="109.6" y="577.0">        ,,,   ,:  @@@@@@@@@@@@@@@@@@@@@@@@@s;rssssssriiii;::;::,,::;;iirrsssXAAM@@  .     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S:             G@@@S3HHHHHHHH</tspan>
+    <tspan x="109.6" y="583.6">       ,      :  2@@@@@@@@@@@@@@@@@@@@@@@@@@irrsrrrsriiii;;;;::,:;;:;;:irsssAA5B@2      :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H                  H@@B3MHHHHHH</tspan>
+    <tspan x="109.6" y="590.1">     ,,      ..  @@@@@@@@@@@@@@@@@@@@@@@@@@@3riiirrriiisr;:;;;:::;;;;i;rsrrrX5M@@      5@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@h            ...  ..   @@@3MHMHHH</tspan>
+    <tspan x="109.6" y="596.7">    :.       .   @@@@@@@@@@@@@@@@@@@@@@@@@@@@;i;iiriii;iii::;;;:;;iiiirssrsA2M@@      B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A                      .  5@@hHHHHH</tspan>
+    <tspan x="109.6" y="603.2">   :,            @@@@@@@@@@@@@@@@@@@@@@@@@@@@A ;i;iiiii;;;;:;i;:;iiirrrsX223S@@      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G                             @@MHGHH</tspan>
+    <tspan x="109.6" y="609.8">  :,             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@i:;:;;iiii;iiri;;;i;irirsX2hhG@@     r@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                           .;i  H@GGHH</tspan>
+    <tspan x="109.6" y="616.3"> :.              #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.::;;irriiiirii;iiirssrs23H#@B     M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@M                             ., , 29GGH</tspan>
+    <tspan x="109.6" y="622.9">,                s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9,:;iiriiriiirsirrrsrrrs23S@@     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  :i r9GH</tspan>
+    <tspan x="109.6" y="629.4">                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BririiririirrrirrisXsrr239@S    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                  .,:X A9H</tspan>
+    <tspan x="109.6" y="636.0">                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@;Aii;;;,      :;;irrssX2G@#  :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                    .,s; 9H</tspan>
+    <tspan x="109.6" y="642.5">                  M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@9 2X;:   ;s2M2i    .:irr2H@@ .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                     .,i;i9H</tspan>
+    <tspan x="109.6" y="649.1">                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@M  2,  G@@@@@@@92X;:,  ,r5B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                       ,i,M@h</tspan>
+    <tspan x="109.6" y="655.6">                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@M     9@@@@@@@@@@@@@@9S@5XS@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s                                      .,i B@5</tspan>
+    <tspan x="109.6" y="662.2">                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@:  h@@@@B@9B9H9@@@@@GB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@5                                       .,i @@h</tspan>
+    <tspan x="109.6" y="668.8">                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@Ar@@@@GG9G@@@XB9@@@@@BB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A                                         ,: @@H</tspan>
+    <tspan x="109.6" y="675.3">                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@H#39@@@@Xh@@G@S@@#B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S                                       ..,;,r@@G</tspan>
+  </text>
+  <path d="M115 703h225l18 13h184l18-13h225" fill="none" stroke="#00a86b" stroke-opacity="0.35"/>
+  <circle cx="450" cy="716" r="4" fill="#39ff88" class="pulse" filter="url(#glow)"/>
+  <rect x="0" y="-100" width="900" height="100" fill="url(#scan)" class="scanner"/>
+</svg>
